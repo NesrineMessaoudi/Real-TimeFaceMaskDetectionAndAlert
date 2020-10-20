@@ -1,1 +1,1 @@
-# Real-TimeFaceMaskDetectionAndAlert
+# RealTimeFaceMaskDetectionAndAlert
